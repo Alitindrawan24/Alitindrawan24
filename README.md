@@ -23,3 +23,7 @@
 [![](https://visitcount.itsvg.in/api?id=alitindrawan24&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<p align="center">
+  <img src="https://github.com/alitindrawan24/alitindrawan24/raw/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
