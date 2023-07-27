@@ -16,16 +16,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alitindrawan24&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🏅 Holopin Badge
+## 🏅 Holopin Badge
 [![An image of @alt24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alt24)](https://holopin.io/@alt24)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<p align="center">
-  <img src="https://github.com/alitindrawan24/alitindrawan24/raw/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alitindrawan24&icon=2&color=1)](https://visitcount.itsvg.in)
