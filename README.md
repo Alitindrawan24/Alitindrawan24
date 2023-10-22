@@ -22,5 +22,7 @@
 ## 🏅 Holopin Badge
 [![An image of @alt24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alt24)](https://holopin.io/@alt24)
 
+<a href="https://app.daily.dev/alt24178"><img src="https://api.daily.dev/devcards/72ca4a3ef4a446e98b64a8dba7ced716.png?r=r78" width="240" alt="Alit Indrawan's Dev Card"/></a>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=alitindrawan24&icon=2&color=1)](https://visitcount.itsvg.in)
