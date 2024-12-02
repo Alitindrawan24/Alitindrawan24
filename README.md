@@ -9,7 +9,7 @@
 [![Docker](https://img.shields.io/badge/Docker-1877F2.svg?logo=docker&logoColor=white)](https://hub.docker.com/u/alt24)
 [![HackerRank](https://img.shields.io/badge/HackerRank-239120.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/alitindrawan71)
 [![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-12100E.svg?logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/Alt24)
-[![Website](https://img.shields.io/badge/website-0084ff.svg?&logo=About.me&logoColor=white)](https://code-crafters.my.id/)
+[![Website](https://img.shields.io/badge/website-0084ff.svg?&logo=About.me&logoColor=white)](https://alitindrawan.com/)
 
 
 # 💻 Tech Stack:
