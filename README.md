@@ -1,6 +1,21 @@
-### 👋 Hi, I’m @Alitindrawan24
-- 👀 I’m interested in Web Developing and learn about new technology
-- 📫 How to reach me : PM to alitindrawan71@gmail.com
+### 👋 Hi, I’m Alit Indrawan
+
+💻 Backend Engineer with 4+ years of experience building scalable web applications  
+🌍 Experienced working with distributed systems & production-ready infrastructure  
+🚀 Focused on clean architecture, performance, and maintainable code  
+
+- 🔧 Main stack: Go, Laravel, NestJS, PostgreSQL, Docker
+- 🧩 Experienced with microservices, API Gateway, async processing (NSQ)
+- 📈 Familiar with monitoring & observability (Prometheus, Grafana)
+- 🕒 Comfortable working async & across timezones
+
+📫 Reach me at: **alitindrawan71@gmail.com**
+
+## 🧩 What I Care About
+- Writing readable & maintainable code
+- Clear communication in async teams
+- Ownership over features, not just tasks
+- Shipping value, not just code
 
 
 ## 🌐 Socials:
